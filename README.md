@@ -39,11 +39,22 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="example badge" style="vertical-align:top margin:6px 4px">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats" style="object-fit: contain;">
-  </a>
+<h3>Where To find me</h3>
+<p>
+ <a href="mailto:190ibrahimahmed@gmail.com">
+     <img src="icons/gmail.svg" />
+ </a>
+  <a href="https://www.linkedin.com/in/ibrahim-ibrahim-937a7823a/">
+     <img src="icons/linkedin.svg" />
+ </a>
+ <br>
+
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats" style="object-fit: contain;">
+    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats">
   </a>
-</div>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats">
+  </a>
+
+
