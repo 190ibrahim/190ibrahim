@@ -5,18 +5,18 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-### My Teck Stack
-
+<h3> My Teck Stack </h3>
+<div>
   <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
- 
-### I am currently learning
+ </div>
+<h3>I am currently learning</h3> 
 
 
-### Where To find me
+<h3>Where To find me</h3>
 <p>
  <a href="mailto:190ibrahimahmed@gmail.com">
      <img src="gmail.svg" />
