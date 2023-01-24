@@ -7,11 +7,11 @@
 </a>
 ### My Teck Stack
 <div>
-  <img src="html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  <img src="java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </div>
 ### I am currently learning
 
