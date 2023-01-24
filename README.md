@@ -6,13 +6,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 ### My Teck Stack
-<div>
+
   <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </div>
+ 
 ### I am currently learning
 
 
