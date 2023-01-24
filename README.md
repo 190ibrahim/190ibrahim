@@ -8,23 +8,30 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=190ibrahim)](https://git.io/streak-stats)
   </div>
 <h3> My Teck Stack </h3>
+<h4>Languages:</h4>
 <div>
-  <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="[icons/html.svg](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   <img src="icons/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
  </div>
+ <h4>Frameworks:</h4>
+<div>
+  <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="icons/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </div>
 <h3>I am currently learning</h3> 
 
 
 <h3>Where To find me</h3>
 <p>
  <a href="mailto:190ibrahimahmed@gmail.com">
-     <img src="gmail.svg" />
+     <img src="icons/gmail.svg" />
  </a>
   <a href="https://www.linkedin.com/in/ibrahim-ibrahim-937a7823a/">
-     <img src="linkedin.svg" />
+     <img src="icons/linkedin.svg" />
  </a>
 </p>
 <!--
