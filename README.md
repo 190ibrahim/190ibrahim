@@ -48,10 +48,6 @@
      <img src="icons/linkedin.svg" />
  </a>
  <br>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats">
-  </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats">
