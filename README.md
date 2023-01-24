@@ -7,15 +7,12 @@
 </a>
 
 ### Where To find me:
-<p align="center">
+<p>
  <a href="mailto:190ibrahimahmed@gmail.com">
      <img src="gmail.svg" />
  </a>
   <a href="https://www.linkedin.com/in/ibrahim-ibrahim-937a7823a/">
      <img src="linkedin.svg" />
- </a>
-  <a href="mailto:190ibrahimahmed@gmail.com">
-     <img src="gmail.svg" />
  </a>
 </p>
 <!--
