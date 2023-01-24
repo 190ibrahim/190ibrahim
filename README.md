@@ -8,10 +8,10 @@
   </ul>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats" style="width: 50%; object-fit: contain;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats" style="object-fit: contain;">
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats" style="width: 50%; object-fit: contain;">
+    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats" style="object-fit: contain;">
   </a>
 </div>
 
