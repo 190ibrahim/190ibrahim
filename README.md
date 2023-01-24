@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats" style="object-fit: contain;">
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats" style="object-fit: contain;">
+    <img src="https://streak-stats.demolab.com?user=190ibrahim" alt="Streak Stats" style="min-height:300px; object-fit: contain;">
   </a>
 </div>
 
