@@ -48,10 +48,4 @@
   <a href="https://www.linkedin.com/in/ibrahim-ibrahim-937a7823a/">
      <img src="icons/linkedin.svg" />
  </a>
- <br>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=190ibrahim&langs_count=8" alt="GitHub Stats">
-  </a>
-
 
