@@ -1,5 +1,4 @@
 <img src="iceage.png" alt="Ice Age"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Ibrahim!;A+Fullstack+web+developer" alt="Typing SVG"/></a>
 <div>
   <ul>
     <li>🏠 I’m currently living in Pécs, Hungary.</li>
