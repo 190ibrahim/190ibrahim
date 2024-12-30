@@ -1,9 +1,7 @@
 <img src="iceage.png" alt="Ice Age"/>
 <div>
   <ul>
-    <li>🏠 I’m currently living in Pécs, Hungary.</li>
-    <li>🔭 I’m currently working on dashboard projects</li>
-    <li>⚡ Fun fact: bla bla bla</li>
+
   </ul>
 </div>
 
