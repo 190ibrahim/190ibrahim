@@ -33,9 +33,9 @@
   </div> -->
 <!-- <h4>I am currently learning</h4> -->
 <!-- <div>
-<!-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:top; margin:6px 4px"> -->
-<!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px"> -->
-<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="example badge" style="vertical-align:top margin:6px 4px"> -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:top; margin:6px 4px">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 </div> -->
 <h3>Where To find me</h3>
 <p>
