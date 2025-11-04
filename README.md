@@ -37,12 +37,12 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 </div> -->
-<h3>Where To find me</h3>
+<!-- <h3>Where To find me</h3>
 <p>
  <a href="mailto:190ibrahimahmed@gmail.com">
      <img src="icons/gmail.svg" />
  </a>
   <a href="https://www.linkedin.com/in/ibrahim-ibrahim-937a7823a/">
      <img src="icons/linkedin.svg" />
- </a>
+ </a> -->
 
